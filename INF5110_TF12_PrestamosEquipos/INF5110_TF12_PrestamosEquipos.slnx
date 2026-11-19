@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="INF5110_TF12_PrestamosEquipos/INF5110_TF12_PrestamosEquipos.vcxproj" Id="c522e450-43ad-4a0e-9efa-3871f60a06e1" />
+</Solution>
